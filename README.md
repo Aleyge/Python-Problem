@@ -1,8 +1,8 @@
 # Python-Problem
 Python Alıştırmaları
-str=input("Bir kelime giriniz ")
+s=input("Bir kelime giriniz ")
 
-if(str.islower()):
+if(s.islower()):
   print("Harflerin hepsi küçüktür.")
 else:
   print("Harflerin arasında büyük harf vardır.")
